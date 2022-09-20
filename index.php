@@ -418,8 +418,8 @@
 						</div>
 						<div class="col-md-5">
 							<ul class="nav navbar-nav">
-								<li><a href="#drivers">Become a driver</a></li>
-								<li><a href="#car-block">Testimonials</a></li>
+								<li><a href="#car-block">Become a driver</a></li>
+								<li><a href="#testimonials">Testimonials</a></li>
 								<li><a href="login">Login</a></li>
 								<li><a href="register">Register</a></li>
 							</ul>						
