@@ -8,3 +8,12 @@ destination locations will be restricted only within one exact city, that they c
 given list(predefined as per only where branches are located in).
 There are registered drivers in the system where the customer cannot pick one but depending on
 the availability of vehicles, the driver associated will be selected and be informed by the system
+
+---------------------------
+
+Installation
+============
+
+01. Create a database and import gocheeta.sql file
+
+02. Update Database connection in inc/dbconfig.php
