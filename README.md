@@ -1,3 +1,6 @@
+About GoCheeta
+==============
+
 “GoCheeta” is a well reputed cab service located in Sri Lanka Island wide. It has several branches
 like Galle, Kandy, Nugegoda, Gampaha, Kurunegala and Jaffna). It has been delivering its
 services in the mode of a mobile app, and now they want to implement it as in a website either due
@@ -8,6 +11,13 @@ destination locations will be restricted only within one exact city, that they c
 given list(predefined as per only where branches are located in).
 There are registered drivers in the system where the customer cannot pick one but depending on
 the availability of vehicles, the driver associated will be selected and be informed by the system
+
+---------------------------
+
+Languages
+==============
+
+PHP, Javascript, Jquery, HTML, CSS, SCSS, MYSQL
 
 ---------------------------
 
